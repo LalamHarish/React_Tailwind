@@ -3,7 +3,7 @@ import React from 'react'
 const FeatureSection = () => {
   return (
     <section>
-        <section className="text-gray-600 body-font bg-BgColor text-TextColor">
+        <section id="feature" className="text-gray-600 body-font bg-BgColor text-TextColor">
   <div className="container px-5 py-24 mx-auto">
     <div className="text-center mb-20">
       <h1 className="sm:text-3xl text-2xl font-medium text-center title-font text-TextColor mb-4">Raw Denim Heirloom Man Braid</h1>

@@ -3,7 +3,7 @@ import React from 'react'
 const HoverSection = () => {
   return (
     <section>
-        <section className="text-gray-600 body-font bg-BgColor text-TextColor">
+        <section id="hover" className="text-gray-600 body-font bg-BgColor text-TextColor">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
       <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-TextColor">Master Cleanse Reliac Heirloom</h1>
